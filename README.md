@@ -7,7 +7,7 @@
 Conecte-se comigo:
 
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nicholassaulo@gmail.com)
- <a href="https://www.instagram.com/Nicholas_sweet/"><img src="https://img.shields.io/badge/-Instagram-FF6F00?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a>
+ <a href="https://www.instagram.com/Nicholas_sweetS/"><img src="https://img.shields.io/badge/-Instagram-FF6F00?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a>
 
 Idiomas e ferramentas:
 
