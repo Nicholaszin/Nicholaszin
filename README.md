@@ -1,4 +1,4 @@
-## Hello, Devs!!
+## Olá, Pessoal!!
 
 Tenho 19 anos, moro em Salvador/bahia e sou apaixonado por programação! Sou aventureiro no universo da programação, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso e percebo que estou no caminho certo!  
 
