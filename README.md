@@ -33,9 +33,6 @@ Tenho 20 anos, moro em Salvador/bahia e sou apaixonado por programação! Sou av
 
 </br>
 
-<a href="https://www.instagram.com/Nicholas_sweet" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-
-
 ##
 <p align="center">
 <a href="https://github.com/Nicholaszin">
