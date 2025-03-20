@@ -45,3 +45,21 @@ Tenho 20 anos, moro em Salvador/bahia e sou apaixonado por programação! Sou av
     <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Jogo da cobrinha no GitHub" />
   </a>
 </div>
+
+
+
+
+
+
+
+
+<div align="center">
+  <a href="https://github.com/Platane/snk">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+      <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Jogo da cobrinha no GitHub" />
+    </picture>
+  </a>
+</div>
+
