@@ -43,3 +43,34 @@ Tenho 20 anos, moro em Salvador/bahia e sou apaixonado por programação! Sou av
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nicholaszin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: NathanD3V
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
