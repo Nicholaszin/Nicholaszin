@@ -48,29 +48,6 @@ Tenho 20 anos, moro em Salvador/bahia e sou apaixonado por programação! Sou av
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
