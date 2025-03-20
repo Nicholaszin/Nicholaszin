@@ -32,7 +32,6 @@ Tenho 20 anos, moro em Salvador/bahia e sou apaixonado por programação! Sou av
 📫 Você pode falar comigo pelo [Discord](https://discord.gg/9mVvF66CVW) este é um servidor que utilizo para ajudar as pessoas da minha faculdade. (eu demoro a responder as vezes, mas respondo pode confiar ) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
 
 </br>
-
 ##
 <p align="center">
 <a href="https://github.com/Nicholaszin">
@@ -41,5 +40,10 @@ Tenho 20 anos, moro em Salvador/bahia e sou apaixonado por programação! Sou av
 </a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/Platane/snk">
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Jogo da cobrinha no GitHub" />
+  </a>
+</div>
 
 
