@@ -20,7 +20,7 @@ Tenho 20 anos, moro em Salvador/bahia e sou apaixonado por programação! Sou av
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🤿 Faço parte da Unijorge (faculdade) </a>;</p>
+ <p align="left">🤿 Faço parte da Faculdade Unijorge </a>;</p>
  <p align="left">📚 Tenho estudado Java, python e iniciei meus estudos para melhor em opencv para reconhecimento facial;</p>
  <p align="left">☕🎮 só acordo com café, adoro games e faço piadas ruins com certa frequência.</p>
 </div>
