@@ -1,6 +1,6 @@
 ## Olá, Pessoal!!
 
-Tenho 20 anos, moro em Salvador/bahia e sou apaixonado por programação! Sou aventureiro no universo da programação, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso e percebo que estou no caminho certo!  
+Tenho 21 anos, moro em Salvador/bahia e sou apaixonado por programação! Sou aventureiro no universo da programação, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso e percebo que estou no caminho certo!  
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
