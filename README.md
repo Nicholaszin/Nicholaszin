@@ -9,9 +9,9 @@
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on Studant
+- 🔭 I am currently studying computer science
   
-- 👨‍💻 Driven by curiosity, I’m always exploring emerging technologies to refine my skills and build better digital experiences.
+- 👨‍💻 Driven by curiosity, I'm always exploring emerging technologies to refine my skills and be able to evolve and create new projects to contribute to the evolution of technology.
   
 - ⚡ Fun fact: My first language was C.
 
