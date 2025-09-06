@@ -3,7 +3,7 @@
 Tenho 21 anos, moro em Salvador/bahia e sou apaixonado por programação! Sou aventureiro no universo da programação, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso e percebo que estou no caminho certo!  
 
   <a>
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+    <img src="https://skillicons.dev/" height="40" alt="GitHub" />
   </a>
 </p>
 
