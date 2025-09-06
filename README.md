@@ -11,7 +11,7 @@
 
 - 🔭 I am currently studying computer science
   
-- 👨‍💻 Driven by curiosity, I'm always exploring emerging technologies to refine my skills and be able to evolve and create new projects to contribute to the evolution of technology.
+- 👨‍💻 Driven by curiosity, I explore emerging technologies to enhance my skills and create innovative projects.
   
 - ⚡ Fun fact: My first language was C.
 
