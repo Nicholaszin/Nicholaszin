@@ -3,8 +3,24 @@
 Tenho 21 anos, moro em Salvador/bahia e sou apaixonado por programação! Sou aventureiro no universo da programação, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso e percebo que estou no caminho certo!  
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  <a href="https://www.linkedin.com/in/gabriel-llim/" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gabrielleal7153@gmail.com" target="_blank" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Gabriel-Leall" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  </a>
 </p>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="120"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
