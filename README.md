@@ -45,7 +45,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/nicholas-sweet-89abaa278" target="_blank" title="GitHub">
+  <a href="https://www.linkedin.com/in/nicholas-sweet-89abaa278/"> 
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
 </p>
