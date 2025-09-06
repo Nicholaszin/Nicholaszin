@@ -37,7 +37,7 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-llim/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/Nicholas Sweet/" target="_blank" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
@@ -45,7 +45,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Gabriel-Leall" target="_blank" title="GitHub">
+  <a href="https://github.com/Nicholaszin" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
 </p>
