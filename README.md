@@ -1,9 +1,52 @@
-## Olá, Pessoal!!
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nicholas Sweet</h1>
 
-Tenho 21 anos, moro em Salvador/bahia e sou apaixonado por programação! Sou aventureiro no universo da programação, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso e percebo que estou no caminho certo!  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Front-End+Developer;UX%2FUI+Designer;" alt="Typing SVG" />
+</p>
 
-  <a>
-    <img src="https://skillicons.dev/"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on Studant
+  
+- 👨‍💻 Driven by curiosity, I’m always exploring emerging technologies to refine my skills and build better digital experiences.
+  
+- ⚡ Fun fact: My first language was C.
+
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui,figma,git,github,vscode&perline=6" />
+  </a>
+</p>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Leall&theme=dark&show_icons=true&hide_title=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Leall&layout=compact&theme=dark" alt="Top Languages"/>
+</div>
+
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-llim/" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nicholassaulo@gmail.com" target="_blank" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Gabriel-Leall" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
 </p>
 
@@ -12,65 +55,3 @@ Tenho 21 anos, moro em Salvador/bahia e sou apaixonado por programação! Sou av
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-### 🖥️ Tecnologias e Ferramentas: 
-
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img alt="Lucas-Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
- <img src="https://www.cdnlogo.com/logos/c/76/c.svg" alt="c++" width="40px"/> </a>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-
-</br>
-</br>
-<div display="inline-block">
- <p align="left">🤿 Faço parte da Faculdade Unijorge </a>;</p>
- <p align="left">📚 Tenho estudado Java, python e iniciei meus estudos para melhor em opencv para reconhecimento facial;</p>
- <p align="left">☕🎮 só acordo com café, adoro games e faço piadas ruins com certa frequência.</p>
-</div>
-
-
-
-</br>
-
-📫 Você pode falar comigo pelo [Discord](https://discord.gg/9mVvF66CVW) este é um servidor que utilizo para ajudar as pessoas da minha faculdade. (eu demoro a responder as vezes, mas respondo pode confiar ) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
-
-</br>
-##
-<p align="center">
-<a href="https://github.com/Nicholaszin">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nicholaszin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nicholaszin&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-<div align="center">
-  <a href="https://github.com/Platane/snk">
-    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Jogo da cobrinha no GitHub" />
-  </a>
-</div>
-
-
-
-
-
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
